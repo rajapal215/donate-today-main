@@ -324,3 +324,80 @@ body {
     text-align: left;
     font-size: bold;
 }
+
+.titel4 {
+    position: absolute;
+    width: 492px;
+    height: 108px;
+    left: 580px;
+    top: 2020px;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.extra-image1 {
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    left: 50px;
+    top: 2080px;
+}
+
+.community-team {
+    position: absolute;
+    width: 480px;
+    height: 210px;
+    left: 650px;
+    top: 2170px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    font-size: bold;
+}
+
+.read-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    width: 230px;
+    top: 2390px;
+    left: 650px;
+    height: 50px;
+    position: absolute;
+    padding: 15px 20px;
+    background-color: #FF5959;
+
+}
+
+.my-update {
+    position: absolute;
+    width: 355px;
+    height: 55px;
+    left: 555px;
+    top: 2500px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+}
+
+.update-paragraph {
+    position: absolute;
+    width: 691px;
+    height: 90px;
+    left: 390px;
+    top: 2580px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    font-size: bold;
+}
