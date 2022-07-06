@@ -1,0 +1,128 @@
+body {
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+}
+
+.background-images {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.712) rgb(85, 85, 85));
+
+
+
+}
+
+.background-titel {
+    font-family: 'Inter';
+    color: #FFFFFF;
+    position: absolute;
+    width: 826px;
+    height: 320px;
+    left: 307px;
+    top: 174px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    text-align: center;
+
+}
+
+.background-paragraph {
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    width: 691px;
+    height: 56px;
+    left: 375px;
+    top: 390px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.donate-button {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 16px;
+    gap: 20px;
+    position: absolute;
+    width: 160px;
+    height: 56px;
+    left: 640px;
+    top: 500px;
+    background-color: rgb(250, 27, 27);
+    font-size: 20px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+
+}
+
+.donate-today {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 40px;
+    font-style: bold;
+    font-family: 'poppins', sans-serif;
+}
+
+.donate-paragraph {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    width: 690px;
+    height: 40px;
+    left: 375px;
+    top: 820px;
+    position: absolute;
+
+}
+
+.donate-container {
+    display: flex;
+    background-color: #ffffff;
+    justify-content: center;
+    margin-top: 150px;
+    border: 40px;
+
+}
+
+.donate-taka {
+    background-color: #eeecec;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+
+}
+
+.donate-taka-200 {
+    background-color: #f1d3d3;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+
+.other-amount {
+    position: absolute;
+    padding-left: 10px;
+    border: 2px solid #DADADA;
+    width: 192px;
+    height: 30px;
+    left: 600px;
+    top: 1080px;
+    margin-bottom: 5px;
+    font-size: 18px;
+
+}
